@@ -41,3 +41,7 @@ Time    | Activity                                  | Notes
 5:50pm  | Daily Teacher Standup                     | Daily teacher meeting where we discuss student progress and ways we can improve. 
 6:00pm  | End of core hours                         | Make sure you leave at this time. It's easy to stick around and help, but you'll burn out. It's a marathon, not a sprint.
 6:00pm  | After hours learning/mentoring/solo time  |
+
+## Emails
+
+- [Welcome to Phase 1](/emails/phase_1.md)
