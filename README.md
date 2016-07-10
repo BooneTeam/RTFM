@@ -42,10 +42,11 @@ Time    | Activity                                  | Notes
 6:00pm  | End of core hours                         | Make sure you leave at this time. It's easy to stick around and help, but you'll burn out. It's a marathon, not a sprint.
 6:00pm  | After hours learning/mentoring/solo time  |
 
-## Important Docs
+## Important Docs - READ THESE
 - [The Three Agreements](https://github.com/Devbootcamp/student-handbook/blob/master/three-agreements.md)
 - [Day One Orientation Overview](/docs/day_1_orientation.md)
-- [Advisor Model Overview](/docs/advisor_overview.md)
+- [Advisor Model Overview](http://confluence.devbootcamp.com/display/AUS/Overview%3A+Advisor+Model) + [Current Advisor Groups](http://confluence.devbootcamp.com/display/AUS/Current+Advisor+Groups)
+- [Weekly Check-in Overview](http://confluence.devbootcamp.com/display/AUS/Overview%3A+Weekly+Check-in) + [Current Check-in Groups](http://confluence.devbootcamp.com/display/AUS/Current+Check-in+Groups)
 - [Daily Check-in/Check-out Doc example](https://docs.google.com/spreadsheets/d/1wi-Cz10DfeZ30H5URr_ure685e9hGxcsr8cXa2MB-Ew/edit#gid=0)
 - [Assessment Tracking Doc example](#)
 
