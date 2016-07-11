@@ -32,7 +32,7 @@ Time    | Activity                                  | Notes
 ---     | ---                                       | ---
 8:45am  | Check in with accountability buddies      | Accountability buddies are set on Day 1. Small groups of 2-3 people. Allows individuals to bond and feel a sense of solidarity as a cohort.
 9:00am  | Morning Announcements                     | Announcements from Program Coordinator, followed by open announcements, and requests for inspiring quotes.
-9:05am  | Daily Progress Checkin                    | Check in from previous days challenges. 3 questions - How many challenges did they fail to do, did they leave feedback, and what are some themes they are struggling with? Use this [Daily Check-in doc](https://docs.google.com/a/devbootcamp.com/spreadsheets/d/1wi-Cz10DfeZ30H5URr_ure685e9hGxcsr8cXa2MB-Ew/edit?usp=sharing) as the standard per cohort.
+9:05am  | Daily Progress Checkin                    | Check in from previous days challenges. 3 questions - How many challenges did they fail to do, did they leave feedback, and what are some themes they are struggling with? Use this [Daily Check-in doc](https://docs.google.com/a/devbootcamp.com/spreadsheets/d/1bHSlRzkUiAnpQhoSc0FTJ9YfGazlYYX1xIzDJ_62LXI/edit?usp=sharing) as the standard per cohort.
 9:25am  | Challenges/Breakouts                      | Students work, instructors support and float the room.
 12:30pm | Lunch                                     |
 2:00pm  | Afternoon Announcements                   | Announcements from Program Coordinator, followed by open announcements, and requests for jokes.
@@ -55,8 +55,8 @@ Time    | Activity                                  | Notes
 - [Current Check-in Groups](http://confluence.devbootcamp.com/display/AUS/Current+Check-in+Groups)
 
 ### Tracking Documents
-- [Daily Check-in/Check-out Doc example](https://docs.google.com/spreadsheets/d/1wi-Cz10DfeZ30H5URr_ure685e9hGxcsr8cXa2MB-Ew/edit#gid=0)
-- [Assessment Tracking Doc example](#)
+- [Daily Check-in/Check-out](https://docs.google.com/a/devbootcamp.com/spreadsheets/d/1bHSlRzkUiAnpQhoSc0FTJ9YfGazlYYX1xIzDJ_62LXI/edit?usp=sharing)
+- [Assessment Tracking](#)
 
 ### Emails
 - [Welcome to Phase 1](/emails/phase_1.md)
