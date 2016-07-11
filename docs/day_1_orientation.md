@@ -17,7 +17,46 @@ The more clearly and confidently an employer can answer these questions, the mor
 
 It's not just about how good you are, but how confident other people are of your abilities.
 
-## How the Challenge based system works
+## Growth Mindset
+![growth mindset](https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2012/04/taschen_informationgraphics10.jpg)
+
+"If you imagine less, less will be what you undoubtedly deserve" - Debbie Millman
+
+The power of our beliefs, both conscious and unconscious, can have profound impact on nearly every aspect of our lives.
+
+A "fixed mindset" assumes that our character, intelligence, and creative ability are static givens which we can’t change in any meaningful way, and success is the affirmation of that inherent intelligence, an assessment of how those givens measure up against an equally fixed standard; striving for success and avoiding failure at all costs become a way of maintaining the sense of being smart or skilled.
+
+A "growth mindset," on the other hand, thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities.
+
+Out of these two mindsets, which we manifest from a very early age, springs a great deal of our behavior, our relationship with success and failure in both professional and personal contexts, and ultimately our capacity for happiness.
+
+At the heart of what makes the growth mindset so winsome, Dweck found, is that it creates a passion for learning rather than a hunger for approval. Its hallmark is the conviction that human qualities like intelligence and creativity, and even relational capacities like love and friendship, can be cultivated through effort and deliberate practice. Not only are people with this mindset not discouraged by failure, but they don’t actually see themselves as failing in those situations — they see themselves as learning.
+
+## Daily Cadence
+- Challenge based system. Try to read through all the challenges. Often times later challenges contain concepts that are built on the next day.
+- Morning checkins after morning annoucements. This is an opportunity to tell us what themes you're struggling with.
+- Afternoon breakdown. End the day with some guidance on where you should be and what you need to get to before tomorrow.
+- Leave feedback everyday at http://feedback.devbootcamp.com/ This is chance to leave ASK feedback to your pairing partner.
+- Thursday is Solo day
+- Friday is group projects
+
+## Advisor Groups
+
+Advisors provide individual support and mentorship throughout the program, complementing the group-focused "phase" and "floating" roles with individual attention. Advisor duties include:
+- Code Reviews
+- 1:1 Time
+- Pairing
+- Doing a breakout for one or two students
+- Mentoring on group dynamics (pairing, team work, conflict resolution)
+- Emotional support (trip to Starbucks, walk around the block, a friendly ear)
+
+While Advisors will regularly check in with students, it is also the student's responsibility to engage with their advisor proactively to make the most of their experience here, and this should be communicated.
+
+## Assessments
+
+Assessments occur during the third week of phases one and two to ensure the students capable of doing the work that is required of them in the next phase. Depending on the student's demonstrated capability in an assessment their assessor may recommend they pass onto the next phase, repeat the phase, or in rare instances, leave the program.
+
+During an assessment a student and their assessor work together on a problem designed to allow them to demonstrate competency of the concepts they have been studying during the phase.
 
 ## Ball exercise
 Objectives: Mix the group. build unity, get a read on leaders/followers.
@@ -35,6 +74,8 @@ Objectives: Mix the group. build unity, get a read on leaders/followers.
 - Time to attempt. How long did it take to initiate an attempt? Note that innovation occurs fastest when rapid attempts take place. 
 
 ## Words of Wisdom
+
+Make it work, make it right, make it fast. Enjoy learning things.
 
 > if you're wondering how you should be spending your time at DBC, here's a suggestion:
 >
