@@ -60,3 +60,4 @@ Time    | Activity                                  | Notes
 
 ### Emails
 - [Welcome to Phase 1](/emails/phase_1.md)
+- [Welcome to Phase 2](/emails/phase_2.md)
