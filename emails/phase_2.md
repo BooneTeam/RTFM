@@ -2,7 +2,7 @@
 
 Welcome to Phase 2!
 
-In a week you'll begin applying what you've learned so far to the web, and we will introduce you to new concepts and technologies. This will include:
+Next week you'll begin applying what you've learned so far to the web, and we will introduce you to new concepts and technologies. This will include:
 
 - **HTML** - Hyper Text Markup Language (structure)
 - **CSS** - Cascading Style Sheets (presentation)
@@ -40,6 +40,6 @@ Please remember to read the two articles on sexism and microaggressions in tech 
 
 To prepare for that EE, the men of the phase will have a Sexism 101 EE next Monday afternoon. That EE provides men a lower-stakes space for unpacking more overarching questions about sexism that, in the past, took time away from discussing solutions in the Tuesday EE. It also ensures that staff, and not students, are shouldering the task of answering questions about sexism. Please let me know if you have any questions about these EEs.
 
-It's a beautiful week to code. And there's so much to learn! If you're not active on a Slack together, now's a great time to start sharing posts, cheat sheets, videos, or other resources that helped you understand something better. And if you've neglected to leave feedback for any of your pairs this past phase, you should hop on [feedback.devbootcamp.com](http://feedback.devbootcamp.com) and make sure they get that actionable, specific, and kind gift.
+It's a beautiful week to code. And there's so much to learn! If you're not active on a Slack together, now's a great time to start sharing posts, cheat sheets, videos, or other resources that helped you understand something better. And if you've neglected to leave feedback for any of your pairs this past phase, you should hop on  [feedback.devbootcamp.com](http://feedback.devbootcamp.com) and make sure they get that actionable, specific, and kind gift.
 
 See you on Monday morning!
