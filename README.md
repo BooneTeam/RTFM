@@ -168,3 +168,6 @@ Day | Breakouts                            | Notes
 
 ### Tracking Docs
 - [Daily Check-in/Check-out](https://docs.google.com/a/devbootcamp.com/spreadsheets/d/1bHSlRzkUiAnpQhoSc0FTJ9YfGazlYYX1xIzDJ_62LXI/edit?usp=sharing)
+
+### Engineering Empathy
+- [Couselor Orientation with all EE sessions linked](https://docs.google.com/document/d/1sCN9BKmHBqWMj9EIL-MVUx1fCmFvo5DrpuM55iC7qPA/edit)
