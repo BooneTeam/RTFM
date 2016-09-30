@@ -1,5 +1,11 @@
 # RTFM
-Instructors, the following is everything you need to know for Austin. 
+Instructors, the following is everything you need to know for Austin.
+
+As a culture, we err on the side of overcommunicating with students since it's easy to forget we have many assumptions in terms of what they should know. That's why throughout each phase, we're constantly reemphasizing the urgency and importance in completing and reading all challenges and additional resources.
+
+Start by reading this. The ethos highlighted here apply as much to instructors as they do to students:
+[On being a student at Dev Bootcamp](https://github.com/Devbootcamp/phase-1-guide/blob/master/readings/being-at-dev-bootcamp.md)
+
 
 <table>
   <tr>
