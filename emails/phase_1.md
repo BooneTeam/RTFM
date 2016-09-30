@@ -2,7 +2,7 @@
 
 Hey (cohort name),
 
-My name is (name) and I'll be one of your teachers here in Austin. I just wanted to send over a few quick notes before we see you onsite.
+My name is (name) and I'll be one of your instructors here in Austin. I just wanted to send over a few quick notes before we see you onsite.
 
 ## Week 1 focus - Algorithms and Coder's Mindset:
 
