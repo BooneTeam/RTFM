@@ -4,7 +4,8 @@ Instructors, the following is everything you need to know for Austin.
 As a culture, we err on the side of overcommunicating with students since it's easy to forget we have many assumptions in terms of what they should know. That's why throughout each phase, we're constantly reemphasizing the urgency and importance in completing and reading all challenges and additional resources.
 
 Start by reading this. The ethos highlighted here apply as much to instructors as they do to students:
-[On being a student at Dev Bootcamp](https://github.com/Devbootcamp/phase-1-guide/blob/master/readings/being-at-dev-bootcamp.md)
+
+### [On being a student at Dev Bootcamp](https://github.com/Devbootcamp/phase-1-guide/blob/master/readings/being-at-dev-bootcamp.md)
 
 
 <table>
@@ -60,6 +61,98 @@ Time    | Activity                                  | Notes
 5:50pm  | Daily Teacher Standup                     | Daily teacher meeting where we discuss student progress and ways we can improve. 
 6:00pm  | End of core hours                         | Make sure you leave at this time. It's easy to stick around and help, but you'll burn out. It's a marathon, not a sprint.
 6:00pm  | After hours learning/mentoring/solo time  |
+
+## Breakouts
+Below are resources to use for breakouts for each phase. We're not hear to tell you how to teach or how to deliver the material, so feel free to create your own way. Rather, these can serve as a starting point and helps us save time collectively from recreating material. If you have any breakout materials you'd like to add or change, reach out to the lead instructor.
+
+## Phase 1
+
+#### Week 1
+Day | Breakouts                            | Notes
+--- | ---                                  | ---
+1   | Morning: no breakout due to orientation   | We try to keep breakouts to a minimum on the first day since there's already a lot going on with orientation
+2   | |
+3   | |
+4   | |
+5   | |
+
+#### Week 2
+Day | Breakouts                            | Notes
+--- | ---                                  | ---
+6   | |
+7   | |
+8   | |
+9   | |
+10  | |
+
+#### Week 3
+Day | Breakouts                            | Notes
+--- | ---                                  | ---
+11  | |
+12  | |
+13  | |
+14  | |
+15  | |
+
+## Phase 2
+
+#### Week 1
+Day | Breakouts                            | Notes
+--- | ---                                  | ---
+16  | |
+17  | |
+18  | |
+19  | |
+20  | |
+
+#### Week 2
+Day | Breakouts                            | Notes
+--- | ---                                  | ---
+21  | |
+22  | |
+23  | |
+24  | |
+25  | |
+
+#### Week 3
+Day | Breakouts                            | Notes
+--- | ---                                  | ---
+26  | |
+27  | |
+28  | |
+29  | |
+30  | |
+
+
+## Phase 3
+
+#### Week 1
+Day | Breakouts                            | Notes
+--- | ---                                  | ---
+31  | |
+32  | |
+33  | |
+34  | |
+35  | |
+
+#### Week 2
+Day | Breakouts                            | Notes
+--- | ---                                  | ---
+36  | |
+37  | |
+38  | |
+39  | |
+40  | |
+
+#### Week 3
+Day | Breakouts                            | Notes
+--- | ---                                  | ---
+41  | |
+42  | |
+43  | |
+44  | |
+45  | Demo Day and Graduation Day! |
+
 
 ## Important & Helpful Resources
 
