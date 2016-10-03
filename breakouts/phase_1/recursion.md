@@ -25,4 +25,4 @@ def factorial(n)
 end
 ```
 
-![recursion stack](../../../../img/recursion.png)
+![recursion stack](../../img/recursion.jpg)
