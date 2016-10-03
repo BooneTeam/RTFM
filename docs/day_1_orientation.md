@@ -33,18 +33,17 @@ Out of these two mindsets, which we manifest from a very early age, springs a gr
 At the heart of what makes the growth mindset so winsome, Dweck found, is that it creates a passion for learning rather than a hunger for approval. Its hallmark is the conviction that human qualities like intelligence and creativity, and even relational capacities like love and friendship, can be cultivated through effort and deliberate practice. Not only are people with this mindset not discouraged by failure, but they don’t actually see themselves as failing in those situations — they see themselves as learning.
 
 ## Daily Cadence
-- Challenge based system. Try to read through all the challenges. Often times later challenges contain concepts that are built on the next day.
+- Challenge based system. **Read through all the challenges**. Often times later challenges contain concepts that are built on the next day.
 - Morning checkins after morning annoucements. This is an opportunity to tell us what themes you're struggling with.
-- Afternoon breakdown. End the day with some guidance on where you should be and what you need to get to before tomorrow.
-- Leave feedback everyday at http://feedback.devbootcamp.com/ This is chance to leave ASK feedback to your pairing partner.
-- Thursday is Solo day
+- Morning breakout
+- Afternoon breakdown. End the day with some guidance on where you should be and a brief breakout on topics for tomorrow.
 - Friday is group projects
 
 ## Advisor Groups
 
 Advisors provide individual support and mentorship throughout the program, complementing the group-focused "phase" and "floating" roles with individual attention. Advisor duties include:
 - Code Reviews
-- 1:1 Time
+- 1:1 Time (every Friday afternoon, 20 minute time blocks)
 - Pairing
 - Doing a breakout for one or two students
 - Mentoring on group dynamics (pairing, team work, conflict resolution)
@@ -131,3 +130,7 @@ Make it work, make it right, make it fast. Enjoy learning things.
 > No need to stress out. You will not learn or know everything, nobody has and nobody will, but make sure you could learn/know about it later on, this is your main goal
 >
 > -- Quentin
+
+---
+> When you learn to code, you are not learning to be an encyclopedia. You are learning to be a detective. The most important thing for a programmer is not knowing how everything works, it’s knowing how to investigate...You’ll never know how everything works. There’s too much to know and it changes too fast. What you need to learn how to do, more than anything else, is to investigate; to fiddle until things make sense. That’s all.
+> -- [full article](http://www.unforgivableruby.com/post/143954334204/new-programmers-you-are-not-learning-to-be-an)
