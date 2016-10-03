@@ -62,8 +62,8 @@ Time    | Activity                                  | Notes
 6:00pm  | End of core hours                         | Make sure you leave at this time. It's easy to stick around and help, but you'll burn out. It's a marathon, not a sprint.
 6:00pm  | After hours learning/mentoring/solo time  |
 
-## Breakouts
-Below are resources to use for breakouts for each phase. We're not hear to tell you how to teach or how to deliver the material, so feel free to create your own way. Rather, these can serve as a starting point and helps us save time collectively from recreating material. If you have any breakout materials you'd like to add or change, reach out to the lead instructor.
+## Phase Schedule & Breakouts
+Below is a detailed schedule of each phase, including resources to use for breakouts. We're not hear to tell you how to teach or how to deliver the material, so feel free to create your own way. Rather, these can serve as a starting point and helps us save time collectively from recreating material. If you have any breakout materials you'd like to add or change, reach out to the lead instructor.
 
 ## Phase 1
 
@@ -72,9 +72,9 @@ Day | Breakouts                            | Notes
 --- | ---                                  | ---
 1   | [Day 1 Orientation](/docs/day_1_orientation.md) | No breakouts on the first day since there's already a lot going on with orientation. Pairing all day.
 2   | EE at 2:30pm: [Intro & Feedback/Pairing](https://docs.google.com/document/d/1dDFfggPCYS6-TdYeDd83PP9F3aEKVaXt9rxOJ70soEo/edit) |
-3   | |
-4   | EE at 2:30pm: [Introvert/Extrovert](https://docs.google.com/document/d/1uW40FWY_d885tOiuyduc_USarxwS8jPwAc3rGhhtYGg/edit)|
-5   | Discussion at 5pm: [On being a student at DBC](https://github.com/devbootcamp/phase-1-guide/blob/austin/readings/being-at-dev-bootcamp.md)|
+3   | [Recursion Basics](#TODO) at 10:30am<br>|
+4   | [Binary Search](#TODO) at 10:30am<br>EE at 2:30pm: [Introvert/Extrovert](https://docs.google.com/document/d/1uW40FWY_d885tOiuyduc_USarxwS8jPwAc3rGhhtYGg/edit)|
+5   | [Objects and References](#TODO) at 10:30am<br>Discussion at 5pm: [On being a student at DBC](https://github.com/devbootcamp/phase-1-guide/blob/austin/readings/being-at-dev-bootcamp.md)|
 
 #### Week 2
 Day | Breakouts                            | Notes
