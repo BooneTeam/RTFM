@@ -70,7 +70,7 @@ Below are resources to use for breakouts for each phase. We're not hear to tell 
 #### Week 1
 Day | Breakouts                            | Notes
 --- | ---                                  | ---
-1   | Morning: no breakout due to orientation   | We try to keep breakouts to a minimum on the first day since there's already a lot going on with orientation
+1   | [Day 1 Orientation](/docs/day_1_orientation.md) | We try to keep breakouts to a minimum on the first day since there's already a lot going on with orientation
 2   | |
 3   | |
 4   | |
