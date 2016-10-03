@@ -70,11 +70,11 @@ Below is a detailed schedule of each phase, including resources to use for break
 #### Week 1
 Day | Breakouts                            | Notes
 --- | ---                                  | ---
-1   | [Day 1 Orientation](/docs/day_1_orientation.md) | No breakouts on the first day since there's already a lot going on with orientation. Pairing all day.
-2   | EE at 2:30pm: [Intro & Feedback/Pairing](https://docs.google.com/document/d/1dDFfggPCYS6-TdYeDd83PP9F3aEKVaXt9rxOJ70soEo/edit) |
-3   | [Recursion Basics](#TODO) at 10:30am<br>|
-4   | [Binary Search](#TODO) at 10:30am<br>EE at 2:30pm: [Introvert/Extrovert](https://docs.google.com/document/d/1uW40FWY_d885tOiuyduc_USarxwS8jPwAc3rGhhtYGg/edit)|
-5   | [Objects and References](#TODO) at 10:30am<br>Discussion at 5pm: [On being a student at DBC](https://github.com/devbootcamp/phase-1-guide/blob/austin/readings/being-at-dev-bootcamp.md)|
+1   | [Day 1 Orientation](/docs/day_1_orientation.md) | No breakouts. Pairing all day.
+2   | [Testing & RSpec basics](/breakouts/phase_1/testing_rspec.md) at 10:30am<br><br>EE at 2:30pm: [Intro & Feedback/Pairing](https://docs.google.com/document/d/1dDFfggPCYS6-TdYeDd83PP9F3aEKVaXt9rxOJ70soEo/edit) |
+3   | [Recursion Basics](/breakouts/phase_1/recursion.md) at 10:30am |
+4   | [Binary Search](/breakouts/phase_1/binary_search.md) at 10:30am<br><br>EE at 2:30pm: [Introvert/Extrovert](https://docs.google.com/document/d/1uW40FWY_d885tOiuyduc_USarxwS8jPwAc3rGhhtYGg/edit)|
+5   | [Objects & References](/breakouts/phase_1/objects_references.md) at 10:30am<br><br>Discussion at 5pm: [On being a student at DBC](https://github.com/devbootcamp/phase-1-guide/blob/austin/readings/being-at-dev-bootcamp.md)|
 
 #### Week 2
 Day | Breakouts                            | Notes
