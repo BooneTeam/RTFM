@@ -70,19 +70,19 @@ Below are resources to use for breakouts for each phase. We're not hear to tell 
 #### Week 1
 Day | Breakouts                            | Notes
 --- | ---                                  | ---
-1   | [Day 1 Orientation](/docs/day_1_orientation.md) | We try to keep breakouts to a minimum on the first day since there's already a lot going on with orientation
-2   | |
+1   | [Day 1 Orientation](/docs/day_1_orientation.md) | No breakouts on the first day since there's already a lot going on with orientation. Pairing all day.
+2   | EE at 2:30pm: [Intro & Feedback/Pairing](https://docs.google.com/document/d/1dDFfggPCYS6-TdYeDd83PP9F3aEKVaXt9rxOJ70soEo/edit) |
 3   | |
-4   | |
-5   | |
+4   | EE at 2:30pm: [Introvert/Extrovert](https://docs.google.com/document/d/1uW40FWY_d885tOiuyduc_USarxwS8jPwAc3rGhhtYGg/edit)|
+5   | Discussion at 5pm: [On being a student at DBC](https://github.com/devbootcamp/phase-1-guide/blob/austin/readings/being-at-dev-bootcamp.md)|
 
 #### Week 2
 Day | Breakouts                            | Notes
 --- | ---                                  | ---
 6   | |
-7   | |
+7   | EE at 2:30pm: [The Inner Critic](https://docs.google.com/document/d/1fbcd8AJj0onAvvoSRneVuwqMzwDrhh4gyT4a4NC4ubc/edit)|
 8   | |
-9   | |
+9   | EE at 2:30pm: [Assessment Anxiety](https://docs.google.com/document/d/1aNz23xQ662tD7m5PLrC4m_zZJrQYU8-NUEICgOIrO0M/edit)|
 10  | |
 
 #### Week 3
@@ -90,8 +90,8 @@ Day | Breakouts                            | Notes
 --- | ---                                  | ---
 11  | |
 12  | |
-13  | |
-14  | |
+13  | **Assessment Day** |
+14  | EE at 2:30pm: [The Empathetic Team](https://docs.google.com/document/d/1aw4IyO_1vAyUf38T7dcyNbm7ehvbbZMSKd8QoYDzBh4/edit)|
 15  | |
 
 ## Phase 2
@@ -99,8 +99,8 @@ Day | Breakouts                            | Notes
 #### Week 1
 Day | Breakouts                            | Notes
 --- | ---                                  | ---
-16  | |
-17  | |
+16  | EE at 2:30pm: Sexism 101 (males only) | This EE provides men a lower-stakes space for unpacking more overarching questions about sexism
+17  | EE at 2:30pm: [Microaggressions & Diversity in Tech](https://docs.google.com/document/d/1Uz7-501TGtEt2dkfNaj8IkN15CCOAhdZNzNTCMr6Duk/edit)|
 18  | |
 19  | |
 20  | |
@@ -109,7 +109,7 @@ Day | Breakouts                            | Notes
 Day | Breakouts                            | Notes
 --- | ---                                  | ---
 21  | |
-22  | |
+22  | EE at 2:30pm: [Crucial Conversations](https://docs.google.com/document/d/1Sp8_WhBh9fitnl_pL4wXrpj357bg3ZFaAEWoTy5o2M8/edit) |
 23  | |
 24  | |
 25  | |
@@ -119,7 +119,7 @@ Day | Breakouts                            | Notes
 --- | ---                                  | ---
 26  | |
 27  | |
-28  | |
+28  | **Assessment Day** |
 29  | |
 30  | |
 
@@ -139,7 +139,7 @@ Day | Breakouts                            | Notes
 Day | Breakouts                            | Notes
 --- | ---                                  | ---
 36  | |
-37  | |
+37  | EE at 2:30pm: [Teams & Tempermants](https://github.com/Devbootcamp/engineering-empathy/wiki/CHI---Team-&-Temperaments) |
 38  | |
 39  | |
 40  | |
@@ -171,3 +171,4 @@ Day | Breakouts                            | Notes
 
 ### Engineering Empathy
 - [Couselor Orientation with all EE sessions linked](https://docs.google.com/document/d/1sCN9BKmHBqWMj9EIL-MVUx1fCmFvo5DrpuM55iC7qPA/edit)
+- [Sessions Goals breakdown](https://github.com/Devbootcamp/engineering-empathy/wiki/Cross-Location-Session-Goals)
