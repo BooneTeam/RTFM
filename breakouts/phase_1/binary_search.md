@@ -3,8 +3,8 @@
 Whiteboard walkthrough of recursive solution of binary search
 
 #### Base Cases
-1) Reached the end of the array (cut it down to length 1)
-2) found the item searched for
+- Reached the end of the array (cut it down to length 1)
+- found the item searched for
 
 #### Code
 ```ruby
