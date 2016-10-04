@@ -52,7 +52,7 @@ Time    | Activity                                  | Notes
 ---     | ---                                       | ---
 8:45am  | Check in with accountability buddies      | Accountability buddies are set on Day 1. Small groups of 2-3 people. Allows individuals to bond and feel a sense of solidarity as a cohort.
 9:00am  | Morning Announcements                     | Announcements from Program Coordinator, followed by open announcements, and requests for inspiring quotes.
-9:05am  | Daily Progress Checkin                    | Check in from previous days challenges. We use this to check in on students progress, roadblocks, and overall wellbeing (mental and physical). Each student shares a high (e.g. learning something new, an aha moment, etc) and a low (e.g. roadblock, frustration with a challenge, etc.) from the previous day. Use this [Daily Check-in doc](https://docs.google.com/a/devbootcamp.com/spreadsheets/d/1bHSlRzkUiAnpQhoSc0FTJ9YfGazlYYX1xIzDJ_62LXI/edit?usp=sharing) as the standard per cohort.
+9:05am  | Daily Progress Checkin                    | Check in from previous days challenges. We use this to check in on students progress, roadblocks, and overall wellbeing (mental and physical). Each student shares a high (e.g. learning something new, an aha moment, etc) and a low (e.g. roadblock, frustration with a challenge, etc.) from the previous day. Use this [Daily Check-in doc](https://docs.google.com/a/devbootcamp.com/spreadsheets/d/1ObtiUyUjtiyO9GEp7yt1fkKKtSWiwBNRH5iQBPIAqMs/edit?usp=sharing) as the standard per cohort.
 9:25am  | Challenges/Breakouts                      | Students work in pairs, instructors support and float the room. Scheduled breakout in the morning, with ad hoc breakouts in the afternoon.
 12:30pm | Lunch                                     |
 2:00pm  | Afternoon Announcements                   | Announcements from Program Coordinator, followed by open announcements, and requests for jokes.
@@ -71,7 +71,7 @@ Below is a detailed schedule of each phase, including resources to use for break
 Day | Breakouts                            | Notes
 --- | ---                                  | ---
 1   | [Day 1 Orientation](/docs/day_1_orientation.md) | No breakouts. Pairing all day.
-2   | [Testing & RSpec basics](/breakouts/phase_1/testing_rspec.md) at 10:30am<br><br>EE at 2:30pm: [Intro & Feedback/Pairing](https://docs.google.com/document/d/1dDFfggPCYS6-TdYeDd83PP9F3aEKVaXt9rxOJ70soEo/edit) |
+2   | [RSpec basics + Enumerables](/breakouts/phase_1/testing_rspec.md) at 10:30am<br><br>EE at 2:30pm: [Intro & Feedback/Pairing](https://docs.google.com/document/d/1dDFfggPCYS6-TdYeDd83PP9F3aEKVaXt9rxOJ70soEo/edit) |
 3   | [Recursion Basics](/breakouts/phase_1/recursion.md) at 10:30am |
 4   | [Binary Search](/breakouts/phase_1/binary_search.md) at 10:30am<br><br>EE at 2:30pm: [Introvert/Extrovert](https://docs.google.com/document/d/1uW40FWY_d885tOiuyduc_USarxwS8jPwAc3rGhhtYGg/edit)|
 5   | [Objects & References](/breakouts/phase_1/objects_references.md) at 10:30am<br><br>Discussion at 5pm: [On being a student at DBC](https://github.com/devbootcamp/phase-1-guide/blob/austin/readings/being-at-dev-bootcamp.md)|
@@ -167,7 +167,7 @@ Day | Breakouts                            | Notes
 - [Current Check-in Groups](http://confluence.devbootcamp.com/display/AUS/Current+Check-in+Groups)
 
 ### Tracking Docs
-- [Daily Check-in/Check-out](https://docs.google.com/a/devbootcamp.com/spreadsheets/d/1bHSlRzkUiAnpQhoSc0FTJ9YfGazlYYX1xIzDJ_62LXI/edit?usp=sharing)
+- [Daily Check-in/Check-out](https://docs.google.com/a/devbootcamp.com/spreadsheets/d/1ObtiUyUjtiyO9GEp7yt1fkKKtSWiwBNRH5iQBPIAqMs/edit?usp=sharing)
 
 ### Engineering Empathy
 - [Couselor Orientation with all EE sessions linked](https://docs.google.com/document/d/1sCN9BKmHBqWMj9EIL-MVUx1fCmFvo5DrpuM55iC7qPA/edit)
